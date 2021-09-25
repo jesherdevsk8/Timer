@@ -1,0 +1,11 @@
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.frm_Timer.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Jesher\Desktop\ETEC - Desen. sistemas\2º Modulo\DS - Luis Fernando\Projeto_Timer\Timer\obj\Debug\Timer.frmSobre.resources
